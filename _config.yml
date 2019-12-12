@@ -11,7 +11,7 @@ title                    : "Nalin Kumar"
 title_separator          : "-"
 name                     : &name "Nalin Kumar"
 description              : &description "A data science enthusiast!"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://knalin55.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/knalin55"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "NalinK55"
 facebook:              
   username               : &facebook "nalin.kumar.75054"
   app_id                 :
@@ -80,36 +80,34 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Nalin"
+  avatar           : "29873481_1009258679238648_5180056278260571839_o.jpg"
+  bio              : "A data science enthusiast!; An Int. MSc student at <a style='color: black;' href='http://niser.ac.in'>National Institute of Science Education & Research.</a>"
+  location         : "Odisha, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            : "knalin55@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Nalin_Kumar5"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/nalin.kumar.75054"
   foursquare       :
-  github           : "academicpages"
+  github           : "knalin55"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/nalin-kumar-7b92aa174/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : "https://steamcommunity.com/profiles/76561198409714202/"
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "NalinK55"
   vine             :
   weibo            :
   xing             :
