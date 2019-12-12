@@ -56,10 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-  twitter                :
+twitter:
   username               : &twitter
-  facebook               : "https://www.facebook.com/nalin.kumar.75054"
-  username               :
+facebook:              
+  username               : &facebook "nalin.kumar.75054"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
