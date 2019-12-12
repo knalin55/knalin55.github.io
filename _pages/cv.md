@@ -30,10 +30,16 @@ Work experience
   * Regression Analysis
   * Supervisor: Dr. Narinder Singh Sahni
   
+* 2019 Odd Semester Project 
+  * NISER, Bhubaneswar
+  * Neural Networks; Presented the paper on "Exploring Deep Multimodal Fusion of Text and Photo for Hate Speech Classification" by Yang et al.(2019).
+  * Supervisor: Dr. Subhankar Mishra  
+  
 Skills
 ======
 * R Programming
 * Python
+* MATLAB
 * Neural Networks
 * Machine Learning
 * Parametric & Bayesian Inference
