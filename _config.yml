@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-IND"
+title                    : "Nalin Kumar"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Nalin Kumar"
+description              : &description "A data science enthusiast!"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/knalin55"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,9 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+  twitter                :
   username               : &twitter
-facebook:
+  facebook               : "https://www.facebook.com/nalin.kumar.75054"
   username               :
   app_id                 :
   publisher              :
