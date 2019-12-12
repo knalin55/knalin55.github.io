@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Integrated MSc in Mathematics, National Institue of Science Education & Research, 2016-21
+* Integrated MSc in Mathematics, National Institute of Science Education & Research, 2016-21
 
 Work experience
 ======
