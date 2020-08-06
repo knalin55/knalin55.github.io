@@ -42,7 +42,8 @@ Skills
 * R Programming
 * Python
 * MATLAB
-* Neural Networks
+* Computer Vision
+* NLP
 * Machine Learning
 * Parametric & Bayesian Inference
 
