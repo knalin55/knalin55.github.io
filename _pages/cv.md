@@ -55,4 +55,4 @@ Publications
 Talks
 ======
   
-Download CV [Here](https://github.com/knalin55/knalin55.github.io/blob/master/files/Nalin_s_R_sum_(2).pdf)
+Download CV [Here](https://knalin55.github.io/files/Nalin_s_R_sum_(2).pdf)
