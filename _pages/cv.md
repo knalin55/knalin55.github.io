@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Integrated MSc in Mathematics, National Institute of Science Education & Research, 2016-21
@@ -54,4 +55,4 @@ Publications
 Talks
 ======
   
-
+Download CV [Here](https://github.com/knalin55/knalin55.github.io/blob/master/files/Nalin_s_R_sum_(2).pdf)
