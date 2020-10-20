@@ -19,7 +19,7 @@ Work experience
 
 
 * Summer 2020, Intern
-  * TATA STEELS
+  * TATA Steel
   * Computer Vision (Detection and Counting of steel reinforcement bars); Text Analytics (Dealers’ name matching, a problem of entity matching, using Machine Learning); Automation of Exports documents verification.
   * Supervisor: Mr. Sanjoy Biswas, Mr. Saibal Nandi
   
