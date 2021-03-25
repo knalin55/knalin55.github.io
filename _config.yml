@@ -10,7 +10,7 @@ locale                   : "en-IND"
 title                    : "Nalin Kumar"
 title_separator          : "-"
 name                     : &name "Nalin Kumar"
-description              : &description "A data science enthusiast!"
+description              : &description "An aspiring NLP researcher"
 url                      : https://knalin55.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/knalin55"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nalin Kumar"
   avatar           : "29873481_1009258679238648_5180056278260571839_o.jpg"
-  bio              : "A data science enthusiast!; An Int. MSc student at <a style='color: black;' href='http://niser.ac.in'>National Institute of Science Education & Research.</a>"
+  bio              : "An aspiring NLP researcher!; An Int. MSc student at <a style='color: black;' href='http://niser.ac.in'>National Institute of Science Education & Research.</a>"
   location         : "Odisha, India"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
